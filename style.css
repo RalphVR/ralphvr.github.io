@@ -4,12 +4,12 @@ body {
 
 main {
   background: white;
+  width: 100%;
   margin: 20px 0;
   padding: 10px;
 }
 
 .center {
   margin: 0 auto;
-  width: 200px;
   color: white;
 }
