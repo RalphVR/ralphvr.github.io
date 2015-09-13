@@ -1,9 +1,6 @@
-body {
-  background: #4444ff;
-}
+
 
 main {
-  background: white;
   width: 100%;
   margin: 20px 0;
   padding: 10px;
@@ -24,6 +21,7 @@ main {
 body {
         font-family: 'Oswald', serif;
         font-size: 18px;
+        background:#dcdcd1;
 }
 
 p {
