@@ -15,7 +15,7 @@
 body {
         font-family: 'Oswald', serif;
         font-size: 18px;
-        background:#dcdcd1;
+        background: #dcdcd1 url("Header_Imagejpg") no-repeat;
 }
 
 p {
