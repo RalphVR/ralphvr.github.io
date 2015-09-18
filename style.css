@@ -26,3 +26,15 @@ p {
 a {
     display: inline;
 }
+
+.laurels{
+   
+    padding: 5%;
+}
+
+.laurelsDiv{
+    display: inline;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
