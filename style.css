@@ -22,3 +22,7 @@ body {
 p {
   font-family: 'Roboto' sans-serif;
 }
+
+a {
+    display: inline;
+}
