@@ -34,7 +34,7 @@ a {
 .laurelsDiv{
     display: inline;
     position: absolute;
-    left: 75%;
+    left: 50%;
     transform: translate(-50%, 0%);
     display: inline-table;
 }
