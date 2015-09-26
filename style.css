@@ -6,10 +6,7 @@
 
 .center {
   	position: relative;
-    margin: auto
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, 0%);
+    margin: auto;
 }
 
 body {
@@ -36,5 +33,5 @@ a {
     position: absolute;
     left: 50%;
     transform: translate(-50%, 0%);
-    display: inline-table;
+    display: inline-flex;
 }
