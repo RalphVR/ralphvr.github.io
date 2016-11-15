@@ -18,6 +18,10 @@ body {
 
 p {
   font-family: 'Roboto' sans-serif;
+  text-align:left; 
+  font-size: 26px; 
+  color: #fff; 
+  width: 100%;
 }
 
 a {
