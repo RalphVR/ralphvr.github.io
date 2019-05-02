@@ -1,0 +1,41 @@
+
+
+.title {
+	text-align: center;
+}
+
+.center {
+  	position: relative;
+    margin: auto;
+}
+
+body {
+        font-family: 'Roboto', serif;
+        font-size: 18px;
+        background: #576a77; 
+        background-size: 100%;
+}
+
+p {
+  font-family: 'Roboto' sans-serif;
+  text-align:left; 
+  font-size: 26px; 
+  color: #fff; 
+  width: 100%;
+}
+
+a {
+    display: inline;
+}
+
+.laurels{
+   
+}
+
+.laurelsDiv{
+    display: inline;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    display: inline-flex;
+}
